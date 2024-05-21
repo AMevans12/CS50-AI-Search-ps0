@@ -10,7 +10,6 @@ Welcome to the repository for CS50 AI Problem Set 0. This repository contains so
   - [AI Tic-Tac-Toe](#ai-tic-tac-toe)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
