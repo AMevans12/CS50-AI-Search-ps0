@@ -10,7 +10,7 @@ Welcome to the repository for CS50 AI Problem Set 0. This repository contains so
   - [AI Tic-Tac-Toe](#ai-tic-tac-toe)
 - [Installation](#installation)
 - [Usage](#usage)
-
+ 
 ## Introduction
 
 This repository contains implementations for two projects from the CS50 AI course's Problem Set 0. These projects demonstrate the application of artificial intelligence techniques in solving real-world problems.
