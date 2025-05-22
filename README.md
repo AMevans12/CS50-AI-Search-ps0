@@ -4,7 +4,7 @@ Welcome to the repository for CS50 AI Problem Set 0. This repository contains so
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Projects](#projects)
   - [Degrees of Separation](#degrees-of-separation)
   - [AI Tic-Tac-Toe](#ai-tic-tac-toe)
